@@ -1,0 +1,12 @@
+{
+"name":"collectd",
+
+"description":"Standard linux collectd checks, like Load, RAM, Swap, Network and disk space. "
+
+"path":"os/",
+
+"macros":{
+          }
+
+
+}
